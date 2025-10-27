@@ -1,4 +1,4 @@
-# 🧠 AI Email Replier – Backend
+# 🧠 AI Email Assistant – Backend
 
 Spring Boot backend service for the **AI Email Replier** project.  
 It processes incoming email content and generates smart AI-based replies.
